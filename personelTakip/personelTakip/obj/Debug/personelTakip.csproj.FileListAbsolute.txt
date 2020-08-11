@@ -1,0 +1,10 @@
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\bin\Debug\personelTakip.exe.config
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\bin\Debug\personelTakip.exe
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\bin\Debug\personelTakip.pdb
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.csprojAssemblyReference.cache
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.Form1.resources
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.Properties.Resources.resources
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.csproj.GenerateResource.cache
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.exe
+C:\Users\ozan_\source\repos\personelTakip\personelTakip\obj\Debug\personelTakip.pdb
